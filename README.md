@@ -81,5 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Acknowledge any resources, libraries, or tutorials used in the development of this project.
 
 ## Demo
+[streamlit-app-2024-02-29-02-02-91.webm](https://github.com/figo2001/Intel-Image-Classification-using-CNN/assets/78696850/806b8d94-a862-428f-8ad0-48638931ef23)
 
 ---
